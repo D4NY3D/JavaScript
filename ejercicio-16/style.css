@@ -1,0 +1,19 @@
+.seccion{
+    background-color: aquamarine;
+    padding: 1rem;
+    margin: 1rem;
+      
+}
+
+.parrafo{
+    background-color: cadetblue;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.img-papelera{
+    width: 50px;
+    height: 50px;
+    margin: 50rem;
+    margin-top: auto;
+}
